@@ -1,3 +1,3 @@
 # machinelearning
 
-Experimentation with different ML algorithms.
+Experimentations with different ML algorithms.
